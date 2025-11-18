@@ -1,2 +1,2 @@
 conf file
-update conf on conflicting-branch to use cherrypick
+update conf on conflicting-branch to use cherrypick main
